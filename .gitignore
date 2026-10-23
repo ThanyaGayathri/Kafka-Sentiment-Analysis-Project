@@ -1,0 +1,13 @@
+# Python virtual environment
+kafka-venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
